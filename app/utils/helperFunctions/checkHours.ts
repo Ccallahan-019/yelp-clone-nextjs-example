@@ -74,8 +74,7 @@ function convertOpenHours(openHours: openHours[]) {
             endDate: endDate
         });
     };
-
-    console.log(convertedHours)
+    
     return convertedHours;
 }
 
